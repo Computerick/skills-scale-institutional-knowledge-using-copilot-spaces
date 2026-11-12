@@ -98,7 +98,7 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 ## QA / Test Leads
 
 ### Role Summary
-QA/Test Leads guide the team's quality strategy and validation activities. They help ensure that releases meet acceptance criteria and are reliable for users.
+QA/Test Leads guide the team's quality strategy throughout delivery, helping the team verify acceptance criteria early and identify risks before release.
 
 ### Responsibilities
 - Define test approaches, coverage, and quality checkpoints
@@ -109,7 +109,7 @@ QA/Test Leads guide the team's quality strategy and validation activities. They 
 
 ### Goals
 - Catch important issues early and reduce escaped defects
-- Make quality visible throughout delivery
+- Make coverage, defects, and quality risks visible throughout delivery
 - Support predictable, evidence-based release decisions
 
 ### Typical Communication
@@ -136,7 +136,7 @@ UX/Product Designers shape usable and coherent experiences by connecting user ne
 - Create user flows, wireframes, prototypes, and interface designs
 - Define usability and accessibility considerations
 - Validate designs with users and incorporate feedback
-- Provide design specifications and support implementation
+- Provide implementation-ready design specifications and support handoff
 
 ### Goals
 - Make products useful, intuitive, and accessible
@@ -196,7 +196,7 @@ DevOps/Release Engineers enable reliable software delivery through automation, d
 ### Responsibilities
 - Maintain CI/CD pipelines and deployment automation
 - Manage environments, infrastructure, and release tooling
-- Define deployment, monitoring, and rollback practices
+- Define deployment, monitoring, rollback, and recovery practices
 - Support release coordination and production verification
 - Identify reliability and operational risks
 
@@ -227,7 +227,7 @@ Business Analysts connect business needs to clear, actionable requirements. They
 ### Responsibilities
 - Elicit and document business needs and requirements
 - Map workflows, rules, and dependencies
-- Translate needs into testable requirements and acceptance criteria
+- Translate business needs into testable requirements and acceptance criteria
 - Validate proposed solutions with users and business stakeholders
 - Track requirement changes and clarify their impact
 
@@ -258,7 +258,7 @@ Customer Support/Operations Representatives bring frontline knowledge of custome
 ### Responsibilities
 - Share recurring customer questions, pain points, and operational patterns
 - Help assess the impact and urgency of reported issues
-- Review support readiness, documentation, and escalation paths
+- Review support readiness, customer-facing documentation, and escalation paths
 - Communicate customer-facing changes and known issues
 - Provide feedback from post-release support and operations
 
